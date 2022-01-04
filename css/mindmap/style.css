@@ -8,16 +8,16 @@ mindmapDiagram {
         MaximumWidth 400
     }
 
-   .red {
+   .lightpink {
         BackgroundColor lightpink
     }
    .orange {
         BackgroundColor orange
     }
-    .green {
+    .lightgreen {
         BackgroundColor lightgreen
     }
-    .light_blue {
+    .lightblue {
         BackgroundColor lightblue
     }
 
