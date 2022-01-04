@@ -20,12 +20,16 @@ mindmapDiagram {
     .lightblue {
         BackgroundColor lightblue
     }
-
+    .lightblue {
+        BackgroundColor lightblue
+    }
+    .white{
+        BackgroundColor white
+    }
 
     .hide {
         LineColor white
         LineThickness 0.0
-        BackgroundColor white
         BackgroundColor white
         FontColor white
         shadowing 0
