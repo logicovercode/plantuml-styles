@@ -1,0 +1,34 @@
+<style>
+mindmapDiagram {
+    node {
+        Padding 12
+        Margin 3
+        HorizontalAlignment center
+        RoundCorner 40
+        MaximumWidth 400
+    }
+
+   .red {
+        BackgroundColor lightpink
+    }
+   .orange {
+        BackgroundColor orange
+    }
+    .green {
+        BackgroundColor lightgreen
+    }
+    .light_blue {
+        BackgroundColor lightblue
+    }
+
+
+    .hide {
+        LineColor white
+        LineThickness 0.0
+        BackgroundColor white
+        BackgroundColor white
+        FontColor white
+        shadowing 0
+    }
+}
+</style>
