@@ -1,0 +1,38 @@
+<style>
+wbsDiagram {
+    node {
+        Padding 12
+        Margin 3
+        HorizontalAlignment center
+        RoundCorner 40
+        MaximumWidth 400
+    }
+
+   .lightpink {
+        BackgroundColor lightpink
+    }
+   .orange {
+        BackgroundColor orange
+    }
+    .lightgreen {
+        BackgroundColor lightgreen
+    }
+    .lightblue {
+        BackgroundColor lightblue
+    }
+    .lightblue {
+        BackgroundColor lightblue
+    }
+    .white{
+        BackgroundColor white
+    }
+
+    .hide {
+        LineColor white
+        LineThickness 0.0
+        BackgroundColor white
+        FontColor white
+        shadowing 0
+    }
+}
+</style>
